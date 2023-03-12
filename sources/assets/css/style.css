@@ -1,0 +1,26 @@
+body {
+    background-color: #3b3b3b;
+    color: #FFF;
+    font-family: sans-serif;
+}
+
+.royalblue {
+    color: #4169e1;
+}
+
+#a, a {
+    text-decoration: none;
+    color: #FFF;
+}
+
+#a:hover {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+#underline {
+    text-decoration: underline;
+}

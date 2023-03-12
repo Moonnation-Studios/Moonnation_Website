@@ -1,0 +1,12 @@
+.navbar {
+    background-color: #2b2b2b;
+    outline: 10px solid #2b2b2b;
+    padding: 20px;
+
+    user-select: none;
+}
+
+.navbar-sort {
+    display: flex;
+    justify-content: space-between;
+}
